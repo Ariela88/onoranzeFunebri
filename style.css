@@ -1,0 +1,34 @@
+body {
+    background-image: url(./assets/wallpapernuovo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+main {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+
+}
+
+.gallery-img {
+    width: 30%;
+}
+
+footer {
+    background-color: #0D090A;
+    padding: 24px;
+    height: 48px;
+    color: white;
+}
+
+header {
+    background-color: #361f27e0;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
