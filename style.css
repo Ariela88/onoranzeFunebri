@@ -1,5 +1,5 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster+Two:ital,wght@0,400;0,700;1,700&family=Sail&family=Ubuntu+Condensed&display=swap');
+
 body {
     background-image: url(./assets/wallpaperalberi.jpg);
     background-repeat: no-repeat;
@@ -52,16 +52,19 @@ h1 {
     color: #A98743;
     text-align: center;
     font-family: 'Dancing Script';
-   margin-bottom: 0px;
+    margin-bottom: 0px;
     margin-top: 0px;
-    text-shadow: -2px 0 #474747, 0 2px #474747 2px 0 #474747, 0 -2px #474747;
+
+    line-height: 150%;
+
+    text-shadow: -1px 0 #ffffff, 0 1px #ffffff, 1px 0 #ffffff, 0 -1px #ffffff;
 
 }
 
 h2 {
     font-size: 20px;
     color: rgb(255, 255, 255);
-  
+
     text-align: center;
     margin-top: 0px;
 }
@@ -96,12 +99,13 @@ h3 {
     width: 30%;
 }
 
-.contact-par
-{text-align: center;
+.contact-par {
+    text-align: center;
     font-size: 25;
-    
+
 
 }
+
 button {
     background-color: #502b38e0;
     color: white;
